@@ -1,6 +1,5 @@
 hello-world
 ===========
 
-Getting started with GitHub
-----
-Finishing readme...
+Hello world. I am learning Git because I read on some blog that I should.
+So here I am!
